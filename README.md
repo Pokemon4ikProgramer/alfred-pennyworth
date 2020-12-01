@@ -1,2 +1,2 @@
-# alfred-pennyworth
-alfred-pennyworth
+# alfred_pennyworth
+Python Course
